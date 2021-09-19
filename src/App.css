@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.containerChildrenCheckBox li {
+  list-style-type: none;
+  align-items: "flex-start";
+  list-style: none;
+}
